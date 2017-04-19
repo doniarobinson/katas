@@ -1,1 +1,3 @@
-# katas
+# Katas
+
+A place to write some code and work through self-contained problems; JavaScript, PHP, and more...
